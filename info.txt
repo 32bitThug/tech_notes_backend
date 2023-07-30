@@ -1,0 +1,2 @@
+In Mongoose, models are an integral part of defining and interacting with MongoDB documents. Models provide an abstraction layer that allows you to create, read, update, and delete documents in your MongoDB collections.
+Template literals (`) can be used to represent multi-line strings and may use "interpolation" to insert variables:
